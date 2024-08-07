@@ -1,0 +1,335 @@
+.group-9,
+.group-9 * {
+  box-sizing: border-box;
+}
+.group-9 {
+  width: 320px;
+  height: 568px;
+  position: relative;
+}
+.atm {
+  background: #ffffff;
+  width: 320px;
+  height: 568px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-30 {
+  background: #fcc813;
+  width: 100.31%;
+  height: 6.69%;
+  position: absolute;
+  right: 0%;
+  left: -0.31%;
+  bottom: 85.74%;
+  top: 7.57%;
+}
+.status-bars-i-phone-light {
+  background: #ffffff;
+  width: 100%;
+  height: 6.16%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 93.84%;
+  top: 0%;
+}
+.rectangle {
+  background: #ffffff;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.battery {
+  width: 6.49%;
+  height: 25.9%;
+  position: absolute;
+  right: 3.82%;
+  left: 89.69%;
+  bottom: 34.48%;
+  top: 39.62%;
+  overflow: visible;
+}
+.wifi {
+  width: 13.08px;
+  height: 8.8px;
+  position: absolute;
+  left: 269.65px;
+  top: 13.86px;
+  overflow: visible;
+}
+.cellular-connection {
+  width: 14.51px;
+  height: 8.53px;
+  position: absolute;
+  left: 250.88px;
+  top: 14.13px;
+  overflow: visible;
+}
+._9-41 {
+  opacity: 0.99;
+  width: 24.33px;
+  height: 8.88px;
+  position: absolute;
+  left: 24.98px;
+  top: 14px;
+  overflow: visible;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 16px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  right: 36.56%;
+  left: 37.5%;
+  width: 25.94%;
+  bottom: 85.74%;
+  top: 7.39%;
+  height: 6.87%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sh {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 16px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  right: 88.44%;
+  left: 2.19%;
+  width: 9.38%;
+  bottom: 85.74%;
+  top: 7.39%;
+  height: 6.87%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.suho-bank {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 10px;
+  line-height: 16px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  right: 67.81%;
+  left: 11.56%;
+  width: 20.62%;
+  bottom: 85.74%;
+  top: 7.39%;
+  height: 6.87%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-33 {
+  background: #ffeaa1;
+  border-radius: 10px;
+  width: 83.44%;
+  height: 9.15%;
+  position: absolute;
+  right: 7.5%;
+  left: 9.06%;
+  bottom: 18.13%;
+  top: 72.71%;
+}
+.div2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 13px;
+  line-height: 12px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  right: 22.5%;
+  left: 25.94%;
+  width: 51.56%;
+  bottom: 20.42%;
+  top: 75.18%;
+  height: 4.4%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-34 {
+  background: #ffeaa1;
+  border-radius: 10px;
+  width: 83.44%;
+  height: 9.15%;
+  position: absolute;
+  right: 7.5%;
+  left: 9.06%;
+  bottom: 30.81%;
+  top: 60.04%;
+}
+.div3 {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 12px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  right: 34.38%;
+  left: 35.31%;
+  width: 30.31%;
+  bottom: 33.1%;
+  top: 62.5%;
+  height: 4.4%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-35 {
+  background: #ffeaa1;
+  border-radius: 10px;
+  width: 83.44%;
+  height: 9.15%;
+  position: absolute;
+  right: 7.5%;
+  left: 9.06%;
+  bottom: 43.49%;
+  top: 47.36%;
+}
+.div4 {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 12px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  right: 21.25%;
+  left: 22.81%;
+  width: 55.94%;
+  bottom: 45.77%;
+  top: 49.82%;
+  height: 4.4%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-36 {
+  background: #ffeaa1;
+  border-radius: 10px;
+  width: 83.44%;
+  height: 9.15%;
+  position: absolute;
+  right: 7.5%;
+  left: 9.06%;
+  bottom: 56.16%;
+  top: 34.68%;
+}
+.div5 {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 12px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  right: 31.25%;
+  left: 31.25%;
+  width: 37.5%;
+  bottom: 58.63%;
+  top: 36.97%;
+  height: 4.4%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-16 {
+  width: 14.37%;
+  height: 5.99%;
+  position: absolute;
+  right: 11.56%;
+  left: 74.06%;
+  bottom: 51.58%;
+  top: 42.43%;
+}
+.image-11 {
+  width: 14.69%;
+  height: 5.99%;
+  position: absolute;
+  right: 43.44%;
+  left: 41.88%;
+  bottom: 26.41%;
+  top: 67.61%;
+}
+._2024-06-24-151429-1 {
+  width: 9.69%;
+  height: 6.51%;
+  position: absolute;
+  right: 0.62%;
+  left: 89.69%;
+  bottom: 0%;
+  top: 93.49%;
+  object-fit: cover;
+}
+._10 {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  right: 28.12%;
+  left: 30.63%;
+  width: 41.25%;
+  bottom: 76.23%;
+  top: 18.31%;
+  height: 5.46%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div6 {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  right: 36.25%;
+  left: 38.44%;
+  width: 25.31%;
+  bottom: 70.07%;
+  top: 27.82%;
+  height: 2.11%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
