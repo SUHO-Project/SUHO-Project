@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+  
+  <style>
+    a,
+    button,
+    input,
+    select,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        border: none;
+        text-decoration: none;
+        background: none;
+        -webkit-font-smoothing: antialiased;
+    }
+
+    menu, ol, ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+
+
+  
+  </style>
+  
+  <title>last</title>
+</head>
+<body>
+  <div class="paydone">
+    <div class="paydone_page">
+      <span>
+        <span class="paydone-logo">
+          결제가 완료되었습니다
+          <br />
+          <br />
+        </span>
+        <span class="number">
+          <br />
+          주문번호
+          <br />
+        </span>
+        <span class="order">
+          23
+          <br />
+        </span>
+        <br />
+      </span>
+    </div>
+    <div class="retangle"></div>
+    <img class="bill" src="bill0.png" />
+  </div>
+
+  <!-- 팝업과 오버레이 추가 -->
+  <div class="popup-overlay" id="popupOverlay" onclick="closePopup()"></div>
+  <div class="last-popup" id="lastPopup">
+    <div class="popup2">[정상승인]</div>
+    <div class="var">영수증을 출력하시겠습니까?</div>
+    <div class="print" onclick="printReceipt()">출력</div>
+    <div class="noprint" onclick="closePopup()">미출력</div>
+  </div>
+
+  <script>
+    // 페이지가 로드된 후 5초 뒤에 팝업을 열기
+    setTimeout(function() {
+        document.getElementById('lastPopup').style.display = 'block';
+        document.getElementById('popupOverlay').style.display = 'block';
+    }, 5000); // 5000ms = 5초
+
+    function closePopup() {
+        document.getElementById('lastPopup').style.display = 'none';
+        document.getElementById('popupOverlay').style.display = 'none';
+    }
+
+  </script>
+</body>
+</html>

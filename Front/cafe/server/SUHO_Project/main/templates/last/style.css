@@ -1,0 +1,161 @@
+.paydone,
+.paydone * {
+  box-sizing: border-box;
+}
+.paydone {
+  background: #ffffff;
+  width: 320px;
+  height: 568px;
+  position: relative;
+  overflow: hidden;
+}
+.paydone_page {
+  color: #000000;
+  text-align: center;
+  text-transform: uppercase;
+  position: absolute;
+  right: 3.44%;
+  left: 3.12%;
+  width: 93.44%;
+  bottom: 33.27%;
+  top: 23.94%;
+  height: 42.78%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.paydone-logo {
+  color: #000000;
+  font-family: "Roboto-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 1.25px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.number{
+  color: #000000;
+  font-family: "Roboto-SemiBold", sans-serif;
+  font-size: 20px;
+  letter-spacing: 1.25px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.order {
+  color: #000000;
+  font-family: "Roboto-SemiBold", sans-serif;
+  font-size: 48px;
+  letter-spacing: 1.25px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.retangle {
+  background: #fcc813;
+  width: 100%;
+  height: 16.9%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 83.1%;
+  top: 0%;
+}
+.bill {
+  width: 45.62%;
+  height: 25.7%;
+  position: absolute;
+  right: 27.19%;
+  left: 27.19%;
+  bottom: 16.2%;
+  top: 62%;
+  object-fit: cover;
+}
+
+
+.last-popup,
+.last-popup * {
+  box-sizing: border-box;
+}
+.last-popup {
+  width: 241px;
+  height: 155px;
+  position: relative;
+}
+.popup {
+  position: absolute;
+  inset: 0;
+}
+.popup2 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #6b6b6b;
+  border-width: 2px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.var {
+  background: #fcc813;
+  width: 100%;
+  height: 16.67%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 83.33%;
+  top: 0%;
+}
+.div {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 13px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  right: 14.52%;
+  left: 14.94%;
+  width: 70.54%;
+  bottom: 34.06%;
+  top: 33.33%;
+  height: 32.61%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div2 {
+
+  color: #ffffff;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 13px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 22px;
+  top: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 13px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

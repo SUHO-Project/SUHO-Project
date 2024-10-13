@@ -1,0 +1,259 @@
+.iphone,
+.iphone * {
+  box-sizing: border-box;
+}
+.iphone {
+  background: #ffeaa1;
+  width: 320px;
+  height: 568px;
+  position: relative;
+  overflow: hidden;
+}
+.ellipse-14 {
+  background: #ffeaa1;
+  border-radius: 50%;
+  width: 22.19%;
+  height: 11.62%;
+  position: absolute;
+  right: 7.19%;
+  left: 70.62%;
+  bottom: 47.18%;
+  top: 41.2%;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(45% - 148px);
+  bottom: 71.3%;
+  top: 10%;
+  height: 14.79%;
+  width: 295px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ellipse-1 {
+  background: #ffeaa1;
+  border-radius: 50%;
+  width: 20.94%;
+  height: 11.8%;
+  position: absolute;
+  right: 71.25%;
+  left: 7.81%;
+  bottom: 51.94%;
+  top: 36.27%;
+}
+.ellipse-10 {
+  background: #ffeaa1;
+  border-radius: 50%;
+  width: 22.19%;
+  height: 11.62%;
+  position: absolute;
+  right: 63.12%;
+  left: 14.69%;
+  bottom: 46.65%;
+  top: 41.73%;
+}
+.image-16 {
+  width: 14.37%;
+  height: 5.99%;
+  position: absolute;
+  right: 11.56%;
+  left: 74.06%;
+  bottom: 51.58%;
+  top: 42.43%;
+}
+.image-11 {
+  width: 14.69%;
+  height: 5.99%;
+  position: absolute;
+  right: 43.44%;
+  left: 41.88%;
+  bottom: 26.41%;
+  top: 67.61%;
+}
+.hambuger-button {
+  position: absolute;
+  inset: 0;
+}
+.hambuger-button2 {
+  width: 272px;
+  height: 131px;
+  position: static;
+}
+.hambuger-retangle {
+  background: #fcc813;
+  border-radius: 8px;
+  width: 272px;
+  height: 131px;
+  position: absolute;
+  left: calc(50% - 138px);
+  top: calc(50% - 78px);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.div2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 22px;
+  line-height: 24px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 16px);
+  top: calc(50% - 43px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hambuger-circle {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 80px;
+  height: 79px;
+  position: absolute;
+  left: calc(50% - 127px);
+  top: calc(50% - 49px);
+}
+.hambuger {
+  width: 62px;
+  height: 41px;
+  position: absolute;
+  left: calc(50% - 118px);
+  top: calc(50% - 32px);
+  object-fit: cover;
+}
+.button-1 {
+  background: #ffeaa1;
+  border-radius: 15px;
+  width: 152px;
+  height: 32px;
+  position: absolute;
+  left: calc(50% - 39px);
+  top: calc(50% - 0px);
+}
+.div3 {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-SemiBold", sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 1.25px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: absolute;
+  left: 22px;
+  top: 3px;
+  width: 106px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cafe-button {
+  position: absolute;
+  inset: 0;
+}
+.start-cafe {
+  width: 272px;
+  height: 131px;
+  position: static;
+}
+.cafe-retangle {
+  background: #fcc813;
+  border-radius: 8px;
+  width: 272px;
+  height: 131px;
+  position: absolute;
+  left: calc(50% - 138px);
+  top: calc(50% - -84px);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.div4 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 22px;
+  line-height: 24px;
+  letter-spacing: 1.25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - -18px);
+  top: calc(50% - -119px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.coffee-circle {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 25%;
+  height: 13.91%;
+  position: absolute;
+  right: 64.06%;
+  left: 10.94%;
+  bottom: 16.2%;
+  top: 69.89%;
+}
+.coffee {
+  width: 19.69%;
+  height: 7.92%;
+  position: absolute;
+  right: 67.19%;
+  left: 13.12%;
+  bottom: 19.19%;
+  top: 72.89%;
+  object-fit: cover;
+}
+.button-2 {
+  background: #ffeaa1;
+  border-radius: 15px;
+  width: 152px;
+  height: 32px;
+  position: absolute;
+  left: 123px;
+  top: 446px;
+}
+.div5 {
+  color: #000000;
+  text-align: center;
+  font-family: "Bold", sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 1.25px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: absolute;
+  left: 22px;
+  top: 3px;
+  width: 106px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 텍스트 스타일 - 버튼 내부 */
+.button-1 span,
+.button-2 span {
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto-SemiBold", sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 1.25px;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
